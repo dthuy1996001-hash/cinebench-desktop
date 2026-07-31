@@ -1,0 +1,7 @@
+# Default behavior
+examples/site/* linguist-vendored
+src/**/*.ts linguist-detectable
+vendor/* linguist-vendored
+*.jpeg binary
+*.yml linguist-detectable=false
+*.ts linguist-detectable
